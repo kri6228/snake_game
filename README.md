@@ -1,4 +1,4 @@
- Hello everyonr this is a basic snake game with score board ,sounds ,and some rules made using html,css,js basic concepts .
+ Hello everyone this is a basic snake game with score board ,sounds ,and some rules made using html,css,js basic concepts .
 
  You can use 'W A S D keys'  or ' UP DOWN RIGHT LEFT arrow keys' to move the snake .
 
