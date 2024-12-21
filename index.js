@@ -136,9 +136,6 @@ window.addEventListener('keydown',e =>{
             break;      
 
         default:
-            console.log("default");
-            inputDir.x = 0;
-            inputDir.y = 0;
             break;    
     }    
 });
