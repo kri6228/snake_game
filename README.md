@@ -4,6 +4,6 @@
 
  You cannot move snake out of the box ,if touched the border the game will be over.
 
- If you tochu the body of snake by looping snake ,the game will be over.
+ If you touch the body of snake by looping snake ,the game will be over.
 
  It contains score card (alongwith highest score ) also some deligent music .
