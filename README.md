@@ -7,5 +7,5 @@
  If you touch the body of snake by looping snake ,the game will be over.
 
  It contains score card (alongwith highest score ) also some deligent music .
-game deployed at :
+game deployed at:
 https://kri6228.github.io/snake_game/
